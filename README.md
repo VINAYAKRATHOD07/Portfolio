@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 V I N A Y A K   R A T H O D
+# 👨‍💻 V I N A Y A K _ R A T H O D
 **Interactive vCard & Personal Portfolio**
 
 `[ HTML5 ]` ✦ `[ CSS3 ]` ✦ `[ JAVASCRIPT ]` ✦ `[ IONICONS ]`
